@@ -1,0 +1,1 @@
+copyright = "© LG 2022"
